@@ -4,7 +4,7 @@ Kaggle competition training
 #### Goal ####  
 Predict the sales price for each house. 
 
-#### Description ####:
+#### Description
 Show a simple example of an analysis of the House Prices in Python.
 
 This notebook includes different steps:
