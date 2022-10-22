@@ -10,7 +10,8 @@ Show a simple example of an analysis of the House Prices in Python.
 This notebook includes different steps:
 >- Data exploration
 >- Data Cleaning
->- Features selection based on correlation
->- Supervised Machine learning Technique: CatBoost  
+>- Data Preprocessing 
+>- Features selection 
+>- Supervised Machine learning Technique: CatBoost, RidgeCV, Lasso, ElasticNetCV
 >- Predictions
 
